@@ -1,0 +1,18 @@
+h1,h2{
+    color: #1a85ba;
+    display: grid;
+    place-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #FBF0B2;
+    margin: 10px 50px 20px 50px;
+}
+div,p{
+    color: #945cc5;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.centrado{
+    display: grid;
+    place-items: center;
+}
